@@ -3,7 +3,7 @@
 1. Clone the repo
 2. Run the app with "meteor"
 3. Grab your favorite web services interface (I use postman)
-4. POST to http://localhost:3000/api/users with Content-Type:application/json and an object like
+4. POST to http://localhost:3000/api/users/ with Content-Type:application/json and an object like
 ```json
 {
 	"email": "myfancy@email.here",
